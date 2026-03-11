@@ -1,7 +1,7 @@
 # CalTrac – Hybrid Workout Tracker
 
 CalTrac is a hybrid workout tracking application built using **Flutter**.
-The goal of the project is to create a simple and efficient way to track workouts, exercises, and training progress directly from a mobile device.
+The goal of this project is to create a simple and efficient way to track workouts, exercises, and training progress directly from a mobile device.
 
 This project focuses on building a clean mobile UI and a scalable structure for fitness tracking applications.
 
